@@ -9,7 +9,7 @@ Technologies Used:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
 
-Machine Learning Models (Logistic Regression, Random Forest, XGBoost)
+Machine Learning Models (Logistic Regression, Random Forest, SVM, KNeighbors, DecisionTree)
 
 Streamlit (for interactive web app)
 
@@ -29,5 +29,5 @@ Deployment with Streamlit
 ✔ Data Cleaning & Handling Missing Values
 ✔ Visualizing Churn Trends & Correlations
 ✔ Training Multiple Machine Learning Models
-✔ Model Performance Evaluation (Accuracy, Precision, Recall, F1-Score)
+✔ Model Performance Evaluation (Accuracy)
 ✔ Deploying an Interactive Web App with Streamlit
